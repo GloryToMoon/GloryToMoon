@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @GloryToMoon
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-GloryToMoon/GloryToMoon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hello, friend. I'm a young russian student.  
+I love programming, some things with information security and play a games.
+Oh, and I have this weird tattoo on a left arm.  
+![alt text](https://github.com/GloryToMoon/GloryToMoon/blob/main/index.jpeg) 
